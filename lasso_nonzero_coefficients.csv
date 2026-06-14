@@ -1,0 +1,9 @@
+specification,model,term,coefficient,abs_coefficient
+Spec 1: Level + Lagged Gold Share,Lasso,gold_share_lag1,0.7601803617640335,0.7601803617640335
+Spec 1: Level + Lagged Gold Share,Lasso,political_stability_lag1,-0.2506758506329111,0.2506758506329111
+Spec 1: Level + Lagged Gold Share,Lasso,inflation_lag1,0.03781409387490543,0.03781409387490543
+Spec 1: Level + Lagged Gold Share,Lasso,manufacturing_share_gdp_lag1,-0.006106110051256505,0.006106110051256505
+Spec 2: Level Without Lagged Gold Share,Lasso,political_stability_lag1,-1.3395042525961842,1.3395042525961842
+Spec 2: Level Without Lagged Gold Share,Lasso,inflation_lag1,0.24221706310511412,0.24221706310511412
+Spec 2: Level Without Lagged Gold Share,Lasso,gdp_per_capita_growth_lag1,-0.0598345818303091,0.0598345818303091
+Spec 2: Level Without Lagged Gold Share,Lasso,trade_share_gdp_lag1,-0.019484692633816244,0.019484692633816244

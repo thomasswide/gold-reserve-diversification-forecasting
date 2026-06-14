@@ -1,0 +1,4 @@
+specification,n_train,n_test,train_rmse_ols,train_rmse_ridge,train_rmse_lasso,test_rmse_ols,test_rmse_ridge,test_rmse_lasso,train_mae_ols,train_mae_ridge,train_mae_lasso,test_mae_ols,test_mae_ridge,test_mae_lasso,cv_rmse_ridge,cv_rmse_lasso,ridge_lambda_min,ridge_lambda_1se,lasso_lambda_min,lasso_lambda_1se
+Spec 1: Level + Lagged Gold Share,475,116,2.8179,2.8586,2.8382,5.1618,5.7767,5.3335,1.5054,1.6477,1.5263,2.404,2.7521,2.4554,3.0674,3.0483,0.5801,2.5702,0.1691,1.577
+Spec 2: Level Without Lagged Gold Share,475,116,5.8529,5.8637,5.8585,13.6765,13.6632,13.6708,4.1036,4.09,4.0851,7.2893,7.2242,7.2276,5.9643,5.9512,1.1001,167.1993,0.1152,1.7113
+Spec 3: Change in Gold Share,475,116,3.1899,3.2081,3.2093,4.0769,4.0981,4.0992,1.3254,1.2789,1.2796,1.8007,1.8142,1.8151,3.2175,3.2235,127.1734,243.9071,0.2439,0.2439

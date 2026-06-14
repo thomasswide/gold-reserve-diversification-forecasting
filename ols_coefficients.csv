@@ -1,0 +1,32 @@
+specification,model,term,coefficient,abs_coefficient
+Spec 1: Level + Lagged Gold Share,OLS,(Intercept),0.8828973413916703,0.8828973413916703
+Spec 1: Level + Lagged Gold Share,OLS,gold_share_lag1,0.7743232428113007,0.7743232428113007
+Spec 1: Level + Lagged Gold Share,OLS,brics_dummy,-0.44783263036073184,0.44783263036073184
+Spec 1: Level + Lagged Gold Share,OLS,political_stability_lag1,-0.38377838708801915,0.38377838708801915
+Spec 1: Level + Lagged Gold Share,OLS,inflation_lag1,0.05704026762430643,0.05704026762430643
+Spec 1: Level + Lagged Gold Share,OLS,manufacturing_share_gdp_lag1,-0.01607419969216057,0.01607419969216057
+Spec 1: Level + Lagged Gold Share,OLS,fuel_exports_share_lag1,0.00516300878478561,0.00516300878478561
+Spec 1: Level + Lagged Gold Share,OLS,trade_share_gdp_lag1,-0.0025849527701114565,0.0025849527701114565
+Spec 1: Level + Lagged Gold Share,OLS,gdp_per_capita_growth_lag1,-0.0025492332312303787,0.0025492332312303787
+Spec 1: Level + Lagged Gold Share,OLS,private_credit_share_gdp_lag1,0.001640979515622103,0.001640979515622103
+Spec 1: Level + Lagged Gold Share,OLS,gdp_per_capita_lag1,3.3807656604280594e-6,3.3807656604280594e-6
+Spec 2: Level Without Lagged Gold Share,OLS,(Intercept),4.427399066736068,4.427399066736068
+Spec 2: Level Without Lagged Gold Share,OLS,political_stability_lag1,-1.4143669620179042,1.4143669620179042
+Spec 2: Level Without Lagged Gold Share,OLS,inflation_lag1,0.26220296370415375,0.26220296370415375
+Spec 2: Level Without Lagged Gold Share,OLS,gdp_per_capita_growth_lag1,-0.09853058553260426,0.09853058553260426
+Spec 2: Level Without Lagged Gold Share,OLS,brics_dummy,-0.06628519803122296,0.06628519803122296
+Spec 2: Level Without Lagged Gold Share,OLS,manufacturing_share_gdp_lag1,0.02562708227375084,0.02562708227375084
+Spec 2: Level Without Lagged Gold Share,OLS,trade_share_gdp_lag1,-0.02405795073307462,0.02405795073307462
+Spec 2: Level Without Lagged Gold Share,OLS,private_credit_share_gdp_lag1,0.003189719339310315,0.003189719339310315
+Spec 2: Level Without Lagged Gold Share,OLS,fuel_exports_share_lag1,0.001774089619224067,0.001774089619224067
+Spec 2: Level Without Lagged Gold Share,OLS,gdp_per_capita_lag1,3.182675251551885e-6,3.182675251551885e-6
+Spec 3: Change in Gold Share,OLS,brics_dummy,-0.5590347517502117,0.5590347517502117
+Spec 3: Change in Gold Share,OLS,(Intercept),-0.1501488220184218,0.1501488220184218
+Spec 3: Change in Gold Share,OLS,political_stability_lag1,-0.08341301675316848,0.08341301675316848
+Spec 3: Change in Gold Share,OLS,manufacturing_share_gdp_lag1,-0.02822805168104082,0.02822805168104082
+Spec 3: Change in Gold Share,OLS,gdp_per_capita_growth_lag1,0.025424562646725424,0.025424562646725424
+Spec 3: Change in Gold Share,OLS,fuel_exports_share_lag1,0.006150710361302756,0.006150710361302756
+Spec 3: Change in Gold Share,OLS,trade_share_gdp_lag1,0.003673359365537541,0.003673359365537541
+Spec 3: Change in Gold Share,OLS,inflation_lag1,-0.0027544658765109972,0.0027544658765109972
+Spec 3: Change in Gold Share,OLS,private_credit_share_gdp_lag1,0.0011895987978355707,0.0011895987978355707
+Spec 3: Change in Gold Share,OLS,gdp_per_capita_lag1,3.4384991735575057e-6,3.4384991735575057e-6

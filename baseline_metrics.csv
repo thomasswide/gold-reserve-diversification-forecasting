@@ -1,0 +1,3 @@
+baseline,test_rmse,test_mae
+Lag-only persistence baseline,4.0598,1.7283
+Training-set mean baseline,13.9633,7.4371

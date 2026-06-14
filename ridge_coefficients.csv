@@ -1,0 +1,29 @@
+specification,model,term,coefficient,abs_coefficient
+Spec 1: Level + Lagged Gold Share,Ridge,gold_share_lag1,0.7024172026375733,0.7024172026375733
+Spec 1: Level + Lagged Gold Share,Ridge,political_stability_lag1,-0.4337242453724878,0.4337242453724878
+Spec 1: Level + Lagged Gold Share,Ridge,brics_dummy,-0.3286654661332203,0.3286654661332203
+Spec 1: Level + Lagged Gold Share,Ridge,inflation_lag1,0.06844179901579034,0.06844179901579034
+Spec 1: Level + Lagged Gold Share,Ridge,gdp_per_capita_growth_lag1,-0.013715975565928937,0.013715975565928937
+Spec 1: Level + Lagged Gold Share,Ridge,manufacturing_share_gdp_lag1,-0.01310912014558355,0.01310912014558355
+Spec 1: Level + Lagged Gold Share,Ridge,fuel_exports_share_lag1,0.004456888464254327,0.004456888464254327
+Spec 1: Level + Lagged Gold Share,Ridge,trade_share_gdp_lag1,-0.004059122454135803,0.004059122454135803
+Spec 1: Level + Lagged Gold Share,Ridge,private_credit_share_gdp_lag1,6.034032496411497e-4,6.034032496411497e-4
+Spec 1: Level + Lagged Gold Share,Ridge,gdp_per_capita_lag1,1.4163446608637783e-6,1.4163446608637783e-6
+Spec 2: Level Without Lagged Gold Share,Ridge,political_stability_lag1,-1.219231031122428,1.219231031122428
+Spec 2: Level Without Lagged Gold Share,Ridge,inflation_lag1,0.21866937320487295,0.21866937320487295
+Spec 2: Level Without Lagged Gold Share,Ridge,brics_dummy,0.1724043742869507,0.1724043742869507
+Spec 2: Level Without Lagged Gold Share,Ridge,gdp_per_capita_growth_lag1,-0.08987961553605739,0.08987961553605739
+Spec 2: Level Without Lagged Gold Share,Ridge,trade_share_gdp_lag1,-0.01959758477819354,0.01959758477819354
+Spec 2: Level Without Lagged Gold Share,Ridge,manufacturing_share_gdp_lag1,0.0037532774892139807,0.0037532774892139807
+Spec 2: Level Without Lagged Gold Share,Ridge,fuel_exports_share_lag1,0.0017726629510101566,0.0017726629510101566
+Spec 2: Level Without Lagged Gold Share,Ridge,private_credit_share_gdp_lag1,-0.0012894318627402173,0.0012894318627402173
+Spec 2: Level Without Lagged Gold Share,Ridge,gdp_per_capita_lag1,-8.335715581664143e-6,8.335715581664143e-6
+Spec 3: Change in Gold Share,Ridge,brics_dummy,-0.015386720014987585,0.015386720014987585
+Spec 3: Change in Gold Share,Ridge,political_stability_lag1,0.0011654152385027542,0.0011654152385027542
+Spec 3: Change in Gold Share,Ridge,manufacturing_share_gdp_lag1,-4.975350918359163e-4,4.975350918359163e-4
+Spec 3: Change in Gold Share,Ridge,fuel_exports_share_lag1,1.882490930734895e-4,1.882490930734895e-4
+Spec 3: Change in Gold Share,Ridge,inflation_lag1,-1.4016998388875277e-4,1.4016998388875277e-4
+Spec 3: Change in Gold Share,Ridge,trade_share_gdp_lag1,8.600901200114103e-5,8.600901200114103e-5
+Spec 3: Change in Gold Share,Ridge,gdp_per_capita_growth_lag1,-7.639203748627943e-5,7.639203748627943e-5
+Spec 3: Change in Gold Share,Ridge,private_credit_share_gdp_lag1,-3.925927722852725e-5,3.925927722852725e-5
+Spec 3: Change in Gold Share,Ridge,gdp_per_capita_lag1,3.0049818636652006e-7,3.0049818636652006e-7
